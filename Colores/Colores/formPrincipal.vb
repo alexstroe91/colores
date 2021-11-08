@@ -14,12 +14,14 @@
 
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
         Me.lblR.Text = "R"
         lblR.ForeColor = Color.Red
         Me.lblG.Text = "G"
         lblG.ForeColor = Color.Green
         Me.lblB.Text = "B"
         lblB.ForeColor = Color.Blue
+
     End Sub
 
 End Class

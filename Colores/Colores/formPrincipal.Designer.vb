@@ -63,7 +63,7 @@ Partial Class formPrincipal
         '
         Me.lblR.AutoSize = True
         Me.lblR.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblR.Location = New System.Drawing.Point(31, 266)
+        Me.lblR.Location = New System.Drawing.Point(36, 266)
         Me.lblR.Name = "lblR"
         Me.lblR.Size = New System.Drawing.Size(18, 20)
         Me.lblR.TabIndex = 3
@@ -73,7 +73,7 @@ Partial Class formPrincipal
         '
         Me.lblG.AutoSize = True
         Me.lblG.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblG.Location = New System.Drawing.Point(122, 266)
+        Me.lblG.Location = New System.Drawing.Point(118, 266)
         Me.lblG.Name = "lblG"
         Me.lblG.Size = New System.Drawing.Size(18, 20)
         Me.lblG.TabIndex = 4
@@ -83,7 +83,7 @@ Partial Class formPrincipal
         '
         Me.lblB.AutoSize = True
         Me.lblB.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblB.Location = New System.Drawing.Point(204, 266)
+        Me.lblB.Location = New System.Drawing.Point(200, 266)
         Me.lblB.Name = "lblB"
         Me.lblB.Size = New System.Drawing.Size(18, 20)
         Me.lblB.TabIndex = 5
@@ -111,7 +111,7 @@ Partial Class formPrincipal
         'txtR
         '
         Me.txtR.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtR.Location = New System.Drawing.Point(32, 317)
+        Me.txtR.Location = New System.Drawing.Point(28, 317)
         Me.txtR.MaxLength = 264
         Me.txtR.Name = "txtR"
         Me.txtR.ReadOnly = True
@@ -121,7 +121,7 @@ Partial Class formPrincipal
         'txtG
         '
         Me.txtG.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtG.Location = New System.Drawing.Point(113, 317)
+        Me.txtG.Location = New System.Drawing.Point(107, 317)
         Me.txtG.MaxLength = 264
         Me.txtG.Name = "txtG"
         Me.txtG.ReadOnly = True
@@ -131,7 +131,7 @@ Partial Class formPrincipal
         'txtB
         '
         Me.txtB.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtB.Location = New System.Drawing.Point(195, 317)
+        Me.txtB.Location = New System.Drawing.Point(190, 317)
         Me.txtB.MaxLength = 264
         Me.txtB.Name = "txtB"
         Me.txtB.ReadOnly = True
